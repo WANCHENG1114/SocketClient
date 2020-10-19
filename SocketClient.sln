@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClienTool", "SocketClient\SocketClienTool.csproj", "{DD130C4C-D503-4AB2-A0E0-136E83255541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD130C4C-D503-4AB2-A0E0-136E83255541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD130C4C-D503-4AB2-A0E0-136E83255541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD130C4C-D503-4AB2-A0E0-136E83255541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD130C4C-D503-4AB2-A0E0-136E83255541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B5FAE5-A0DA-49C2-AA23-D7F0FD4E15E2}
+	EndGlobalSection
+EndGlobal
